@@ -1,15 +1,13 @@
 ## Interface: 30300
-## Author: Kesava
 ## Title: Kui |cff9966ffNameplates|r
-## Version: 3.3.5-1.0.0
-## Notes: Prettier nameplates.
+## Notes: Kui Nameplates port for Sirus 3.3.5a
+## Author: Dozawow
+## Version: 1.0.0 (Sirus 3.3.5a)
 ## SavedVariables: KuiNameplatesGDB
-## X-Curse-Packaged-Version: 262
-## X-Curse-Project-Name: KuiNameplates
-## X-Curse-Project-ID: kuinameplates
-## X-Website: https://github.com/bkader/KuiNameplates-WoTLK
-## X-Email: bkader@email.com
-## X-Date: 2022-01-01 @ 01:10 PM |cff808080UTC|r
+
+## X-Website: https://github.com/Dozawow/Kui_Nameplates-Sirus-3.3.5
+## X-Repository: https://github.com/Dozawow/Kui_Nameplates-Sirus-3.3.5
+## X-Date: 2026-07-02
 
 Embeds.xml
 Locales.xml
